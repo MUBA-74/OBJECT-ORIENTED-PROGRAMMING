@@ -3,6 +3,9 @@
 import inquirer from "inquirer"
 import chalk from "chalk"
 
+console.log(chalk.magentaBright("WELCOME TO UMAR'S OOP AAP"));
+
+
 // create class
 
 class Person{

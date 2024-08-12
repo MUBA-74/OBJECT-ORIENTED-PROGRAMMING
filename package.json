@@ -1,6 +1,6 @@
 {
-  "name": "myobject-oriented-programming",
-  "version": "1.0.0",
+  "name": "newobject-oriented-programming",
+  "version": "1.0.3",
   "description": "PROJECT BASED ON TYPESCRIPT,JAVASCRIPT &amp; NODEJS.",
   "main": "index.js",
   "type":"module",
